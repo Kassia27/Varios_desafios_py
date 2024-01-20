@@ -9,15 +9,15 @@ imprimir seu valor na tela.
 
 ✅ 4 - Faça um algoritmo que receba um número inteiro e imprima na tela o seu antecessor e o seu sucessor.
 
-5 - Faça um algoritmo que leia o valor do salário mínimo e o valor do salário de um usuário, calcule quantos salários mínimos esse 
+✅ 5 - Faça um algoritmo que leia o valor do salário mínimo e o valor do salário de um usuário, calcule quantos salários mínimos esse 
 
 usuário ganha e imprima na tela o resultado. (Base para o Salário mínimo R$ 1.293,20).
 
-6 - Faça um algoritmo que leia um valor qualquer e imprima na tela com um reajuste de 5%.
+✅ 6 - Faça um algoritmo que leia um valor qualquer e imprima na tela com um reajuste de 5%.
 
-7 - Faça um algoritmo que leia dois valores booleanos (lógicos) e determine se ambos são VERDADEIRO ou FALSO.
+✅ 7 - Faça um algoritmo que leia dois valores booleanos (lógicos) e determine se ambos são VERDADEIRO ou FALSO.
 
-8 - Faça um algoritmo que leia três valores inteiros diferentes e imprima na tela os valores em ordem decrescente.
+✅ 8 - Faça um algoritmo que leia três valores inteiros diferentes e imprima na tela os valores em ordem decrescente.
 
 9 - Faça um algoritmo que calcule o IMC (Índice de Massa Corporal) de uma pessoa, leia o seu peso e sua altura e imprima na tela sua condição 
 
@@ -41,9 +41,9 @@ Tabela Condições IMC
  Maior ou igual a 40 | Obesidade grau III (mórbida)
 
  
- 10 - Faça um algoritmo que leia três notas obtidas por um aluno, e imprima na tela a média das notas.
+ ✅ 10 - Faça um algoritmo que leia três notas obtidas por um aluno, e imprima na tela a média das notas.
 
- 11 - Faça um algoritmo que leia quatro notas obtidas por um aluno, calcule a média das nota obtidas, imprima na tela o nome do aluno e 
+ ✅ 11 - Faça um algoritmo que leia quatro notas obtidas por um aluno, calcule a média das nota obtidas, imprima na tela o nome do aluno e 
  se o aluno foi aprovado ou reprovado. Para o aluno ser considerado aprovado sua média final deve ser maior ou igual a 7.
 
 
