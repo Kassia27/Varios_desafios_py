@@ -3,7 +3,6 @@
 import random
 
 numeros_aleatorios = random.randint(1,100)
-
 numero = (numeros_aleatorios)
 
 print(f"O valor antecessor de {numero} é: {numero -1}")
